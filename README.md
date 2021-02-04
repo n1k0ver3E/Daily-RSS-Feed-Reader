@@ -12,21 +12,21 @@ An alfred workflow to display content of RSS feeds Directly.
 ## Instructions
 - ``rss`` : Display the contents from all RSS feeds
 
-  ![](/Users/Niko/Git/PYF0311/Daily-RSS-Feed-Reader/img/rss.gif)
+  ![](./img/rss.gif)
 
   
 
 - ``rss [source_name] `` : Display the contents from certain RSS feed. eg: rss sspai 
 
-  ![](/Users/Niko/Git/PYF0311/Daily-RSS-Feed-Reader/img/rss_sourceName.gif)
+  ![](./img/rss_sourceName.gif)
 
 - ``rss help`` : Display all available commands
 
-  ![](/Users/Niko/Git/PYF0311/Daily-RSS-Feed-Reader/img/rss_help.gif)
+  ![](./img/rss_help.gif)
 
 - rss open : Open ``config.json`` to manage RSS feeds
 
-  ![](/Users/Niko/Git/PYF0311/Daily-RSS-Feed-Reader/img/rss_open.gif)
+  ![](./img/rss_open.gif)
 
 
 
