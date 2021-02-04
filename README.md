@@ -9,7 +9,7 @@ An alfred workflow to display content of RSS feeds Directly.
 
 ## Features
 - Directly display the content of RSS feeds.
-- Easy to manage RSS sources.
+- Easily manage and customize rss feeds.
 
 ## Instructions
 - ``rss`` : Display the contents from all RSS feeds
