@@ -32,6 +32,6 @@ An alfred workflow to display content of RSS feeds Directly.
 
 ## 0x03 Customization
 - Default app to open ``config.json`` is TextEdit, which can be modified from ``Alfred Preferences``.
-- The element ``pubDate`` in RSS conform to the specification of RFC 822. Format and example can be found from [RSS 2.0 specification](https://validator.w3.org/feed/docs/rss2.html). When the format does not match, it will cause a parsing error. 
-- It can be customized in the format function.
+- The element ``pubDate`` in RSS conform to the specification of RFC 822. Format and example can be found from [RSS 2.0 specification](https://validator.w3.org/feed/docs/rss2.html). 
+- When the format does not match, it will cause a parsing error. It can be customized from [here](https://github.com/PYF0311/Daily-RSS-Feed-Reader/blob/74ffb951aeeb31218d79a3543fdfbc92d7425742/src/main.py#L29).
 
