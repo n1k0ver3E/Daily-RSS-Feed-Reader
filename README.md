@@ -30,5 +30,7 @@ An alfred workflow to display content of RSS feeds Directly.
 
   ![](./img/rss_open.gif)
 
-
+## Customization
+- Default app to open ``config.json`` is TextEdit, it can be modified from ``Alfred Preferences``.
+- RSS ``pubDate`` follows the [RSS 2.0 specification](https://validator.w3.org/feed/docs/rss2.html), which causes parsing exceptions when the format does not match and can be customized in the format function.
 
