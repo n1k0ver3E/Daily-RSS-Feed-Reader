@@ -1,6 +1,8 @@
 # Daily-RSS-Feed-Reader
 An alfred workflow to display content of RSS feeds Directly.
 
+---
+
 ## Install
 - Download `Daily.RSS.Feed.Reader.alfredworkflow` from [release](https://github.com/PYF0311/Daily-RSS-Feed-Reader/releases/tag/v1.0.0).
 - Double click to import.
