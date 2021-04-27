@@ -35,3 +35,6 @@ An alfred workflow to display content of RSS feeds Directly.
 - The element ``pubDate`` in RSS conform to the specification of RFC 822. Format and example can be found from [RSS 2.0 specification](https://validator.w3.org/feed/docs/rss2.html). 
 - When the format does not match, it will cause a parsing error. It can be customized from [here](https://github.com/PYF0311/Daily-RSS-Feed-Reader/blob/74ffb951aeeb31218d79a3543fdfbc92d7425742/src/main.py#L29).
 
+## 0x04 todo
+- 联动chrome，增加「添加到reading list」功能
+
